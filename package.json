@@ -1,0 +1,19 @@
+{
+  "name": "jew",
+  "version": "1.0.0",
+  "description": "",
+  "main": "myapp.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0",
+    "gulp": "^3.9.1",
+    "gulp-beautify": "^2.0.0",
+    "gulp-eslint": "^2.0.0",
+    "gulp-jsbeautify": "^0.1.1",
+    "lodash": "^4.13.1"
+  }
+}
