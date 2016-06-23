@@ -1,7 +1,7 @@
 var gulp = require('gulp'),
  eslint = require('gulp-eslint');
  
-ar beautify = require('gulp-jsbeautify');
+var beautify = require('gulp-jsbeautify');
  
 gulp.task('beautify', function() {
   gulp.src('./*.js')
